@@ -9,14 +9,14 @@
 
 #import "AIRMapManager.h"
 
-#import <React/RCTBridge.h>
-#import <React/RCTUIManager.h>
-#import <React/RCTConvert.h>
-#import <React/RCTConvert+CoreLocation.h>
-#import <React/RCTConvert+MapKit.h>
-#import <React/RCTEventDispatcher.h>
-#import <React/RCTViewManager.h>
-#import <React/UIView+React.h>
+#import <RCTBridge.h>
+#import <RCTUIManager.h>
+#import <RCTConvert.h>
+#import <RCTConvert+CoreLocation.h>
+#import <RCTConvert+MapKit.h>
+#import <RCTEventDispatcher.h>
+#import <RCTViewManager.h>
+#import <UIView+React.h>
 #import "AIRMap.h"
 #import "AIRMapMarker.h"
 #import "AIRMapPolyline.h"

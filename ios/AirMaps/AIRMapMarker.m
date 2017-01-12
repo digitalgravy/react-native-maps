@@ -9,11 +9,11 @@
 
 #import "AIRMapMarker.h"
 
-#import <React/RCTBridge.h>
-#import <React/RCTEventDispatcher.h>
-#import <React/RCTImageLoader.h>
-#import <React/RCTUtils.h>
-#import <React/UIView+React.h>
+#import <RCTBridge.h>
+#import <RCTEventDispatcher.h>
+#import <RCTImageLoader.h>
+#import <RCTUtils.h>
+#import <UIView+React.h>
 
 @implementation AIREmptyCalloutBackgroundView
 @end

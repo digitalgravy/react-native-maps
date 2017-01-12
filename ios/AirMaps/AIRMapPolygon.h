@@ -8,9 +8,9 @@
 #import <MapKit/MapKit.h>
 #import <UIKit/UIKit.h>
 
-#import <React/RCTComponent.h>
-#import <React/RCTConvert+MapKit.h>
-#import <React/RCTView.h>
+#import <RCTComponent.h>
+#import <RCTConvert+MapKit.h>
+#import <RCTView.h>
 #import "AIRMapCoordinate.h"
 #import "AIRMap.h"
 
